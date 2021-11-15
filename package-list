@@ -1,0 +1,16 @@
+org.elastos.hive
+org.elastos.hive.backup
+org.elastos.hive.backup.promotion
+org.elastos.hive.connection
+org.elastos.hive.connection.auth
+org.elastos.hive.endpoint
+org.elastos.hive.exception
+org.elastos.hive.service
+org.elastos.hive.subscription
+org.elastos.hive.subscription.payment
+org.elastos.hive.vault
+org.elastos.hive.vault.backup
+org.elastos.hive.vault.backup.credential
+org.elastos.hive.vault.database
+org.elastos.hive.vault.files
+org.elastos.hive.vault.scripting
